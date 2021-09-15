@@ -1,2 +1,3 @@
 # tp_final
-https://magael.github.io/tp_final/main
+https://magael.github.io/tp_final/index.html
+
